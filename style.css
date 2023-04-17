@@ -1,6 +1,8 @@
 body {
     font-family: Verdana, Arial, sans-serif;
     background-color: aliceblue;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 .main-title,
@@ -20,11 +22,6 @@ body {
 
 a {
     color: deepskyblue;
-}
-
-div {
-    margin-left: 30%;
-    margin-right: 30%;
 }
 
 img {
