@@ -14,8 +14,14 @@ body {
 
 .recipe-list {
     list-style-type: none;
+    padding: 0%;
 }
 
 a {
     color: deepskyblue;
+}
+
+div {
+    margin-left: 30%;
+    margin-right: 30%;
 }
