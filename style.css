@@ -7,7 +7,8 @@ body {
 
 .main-title,
 .recipe-list,
-.source-link {
+.source-link,
+.description {
     text-align: center;
 }
 
@@ -19,6 +20,13 @@ body {
 .recipe-list {
     list-style-type: none;
     padding: 0%;
+}
+
+.description {
+    font-family: "Times New Roman", serif;
+    font-style: italic;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 a {
