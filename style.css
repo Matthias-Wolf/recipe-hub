@@ -25,3 +25,8 @@ div {
     margin-left: 30%;
     margin-right: 30%;
 }
+
+img {
+    height: auto;
+    width: 100%;
+}
