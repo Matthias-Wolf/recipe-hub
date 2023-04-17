@@ -9,7 +9,8 @@ body {
 }
 
 .main-title {
-    color: green;
+    color: greenyellow;
+    background-color: green;
 }
 
 .recipe-list {
