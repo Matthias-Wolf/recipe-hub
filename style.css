@@ -6,7 +6,8 @@ body {
 }
 
 .main-title,
-.recipe-list {
+.recipe-list,
+.source-link {
     text-align: center;
 }
 
